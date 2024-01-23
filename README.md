@@ -102,7 +102,7 @@ Some commmon errors/mistakes here include:
 
 1. not supplying the default yes `-y` option to the install command, causing it to timeout.
 
-2. If the error message says it finds `/r/n` in one of your files, change the end of line sequence to from CRLF to LF. You can do this in an editor or use the utility `dos2unix`. This typically happens on Windows machines.
+2. If the error message says it finds `/r/n` in one of your files, change the end of line sequence to from CRLF to LF. You can do this in an editor or use the utility `dos2unix`. This typically happens on Windows machines. 
 
 #### Step 2.1.3 Test Run
 
