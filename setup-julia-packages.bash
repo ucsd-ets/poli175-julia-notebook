@@ -45,8 +45,7 @@ Pkg.add([
     "PyCall", 
     "JLD", 
     "PyCallJLD",
-    "MLJ",
-    "PlutoGrader"
+    "MLJ"
 ]);
 Pkg.precompile();
 '
