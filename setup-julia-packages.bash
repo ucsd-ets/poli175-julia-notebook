@@ -37,9 +37,7 @@ Pkg.add([
     "NearestNeighbors",
     "Clustering",
     "MultivariateStats",
-    "TensorFlow",
     "PlotlyJS",
-    "ScikitLearn",
     "RDatasets"
 ]);
 Pkg.precompile();
