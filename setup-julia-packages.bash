@@ -16,7 +16,6 @@ Pkg.add([
     "CSV",
     "Plots",
     "StatsPlots",
-    "GLM",
     "DataFrames",
     "LaTeXStrings", 
     "Measures", 
