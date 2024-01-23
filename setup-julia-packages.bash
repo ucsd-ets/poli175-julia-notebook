@@ -32,7 +32,6 @@ Pkg.add([
     "Roots",
     "GLM",
     "Flux",
-    "Knet",
     "LIBSVM",
     "DecisionTree",
     "NearestNeighbors",
@@ -41,11 +40,7 @@ Pkg.add([
     "TensorFlow",
     "PlotlyJS",
     "ScikitLearn",
-    "RDatasets",
-    "PyCall", 
-    "JLD", 
-    "PyCallJLD",
-    "MLJ"
+    "RDatasets"
 ]);
 Pkg.precompile();
 '
